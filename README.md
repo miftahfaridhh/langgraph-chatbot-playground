@@ -16,7 +16,7 @@ This repository contains basic examples, experiments, and notes to explore how L
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/langgraph-chatbot-playground.git
+   git clone https://github.com/miftahfaridhh/langgraph-chatbot-playground.git
    cd langgraph-chatbot-playground
 
 2. Create and activate a virtual environment:
