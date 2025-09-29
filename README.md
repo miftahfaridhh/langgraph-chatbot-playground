@@ -31,8 +31,7 @@ This repository contains basic examples, experiments, and notes to explore how L
 ## ▶️ Usage
 
 Run an example script:
-    ```bash
-    
+
     python examples/xxxx.py
 
 
